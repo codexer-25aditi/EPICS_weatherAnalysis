@@ -1,4 +1,4 @@
-# How to use the project
+# How to use the project?
 
 - Clone
 - Install dependencies (npm i)
