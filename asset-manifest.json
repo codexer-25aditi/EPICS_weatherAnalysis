@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KnowYourWeather/static/css/main.36901a67.css",
+    "main.js": "/KnowYourWeather/static/js/main.fc610e7c.js",
+    "index.html": "/KnowYourWeather/index.html",
+    "main.36901a67.css.map": "/KnowYourWeather/static/css/main.36901a67.css.map",
+    "main.fc610e7c.js.map": "/KnowYourWeather/static/js/main.fc610e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36901a67.css",
+    "static/js/main.fc610e7c.js"
+  ]
+}
