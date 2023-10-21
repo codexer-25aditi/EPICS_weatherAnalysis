@@ -6,7 +6,7 @@ drastically in three cities Pune Chennai and Bangalore.
 
 
 # Objectives🎯
-- To collect weather data of Pune, Bangalore and Chennai.
+- To fetch data from various locations using OpenWeatherAPI
 - Pre-processing it to analyze it.
 - Gaining insight on changes in weather pattern over the years.
 - Making a report on how weather affects the environment.
