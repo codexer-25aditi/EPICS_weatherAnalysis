@@ -57,4 +57,15 @@ Install KnowYourWeather with npm
 Runs at LocalHost3000
 ```
 ## TechStack
+🛠️ React.Js
+
+🛠️ SQL
+
+🛠️ Tableau
+
+🛠️ VS Code
+
+🛠️ Tailwind
+
+🛠️ Bootstrap
 
