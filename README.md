@@ -23,16 +23,14 @@ drastically in three cities Pune Chennai and Bangalore.
 
 ![screely-1697897458640](https://github.com/codexer-25aditi/KnowYourWeather/assets/126336764/a719ee12-1387-474d-9ea3-ee192a449e77)
 
-```
- Tableau Dashboard
-```
+# Tableau Dashboards
 ![screely-1697893851759](https://github.com/codexer-25aditi/KnowYourWeather/assets/126336764/1a076a3e-b9e1-4724-844c-12819d9d4821)
 
 ![screely-1697893890902](https://github.com/codexer-25aditi/KnowYourWeather/assets/126336764/d80e5f4b-1b7d-4633-bfe0-3bb48aa8a229)
 
 ![screely-1697893955323](https://github.com/codexer-25aditi/KnowYourWeather/assets/126336764/629fb39a-c8bd-45d2-b36a-91a5e568c57d)
 
-![screely-1697896284748](https://github.com/codexer-25aditi/KnowYourWeather/assets/126336764/b8997e13-eb07-4241-9b84-6aaa06151add)
+
 
 
 ## Features
