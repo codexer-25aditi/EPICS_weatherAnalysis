@@ -56,3 +56,5 @@ Install KnowYourWeather with npm
 ```
 Runs at LocalHost3000
 ```
+## TechStack
+
